@@ -55,6 +55,13 @@ Shopingo is a simple e-commerce mobile app built using Flutter. It provides a cl
 
 ---
 
+## 🎨 App Design
+
+You can check out the app design on Canva here:  
+👉 [Shopingo UI Design on Canva](https://www.canva.com/design/DAGserTsl_Q/6a9mNFrJwKUUzsrv7r8YSA/view?utm_content=DAGserTsl_Q&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfa3069571e)
+
+---
+
 ## 👨‍💻 Author
 
 Made with ❤️ by Asem — Computer Science student and Flutter developer.
@@ -72,4 +79,3 @@ This project is intended for learning and personal use.
 For help getting started with Flutter development, view the 
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
